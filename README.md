@@ -1,5 +1,5 @@
 ## Current projects
-### [Social distancing simulator](https://github.com/garethjns/reinforcement-learning-keras) 
+### [Social distancing simulator](https://github.com/garethjns/social-distancing-sim) 
 Simulating disease spread in a graph-based model that allows agent interaction.
 ### [Reinforcement learning using Keras](https://github.com/garethjns/reinforcement-learning-keras)
 Building various reinforcement learning approaches from scratch in Keras and Tensorflow 2.2.
